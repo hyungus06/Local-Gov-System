@@ -1,0 +1,17 @@
+{
+    "name": "local-gov-system",
+    "version": "0.0.0",
+    "description": "This is a personal development project for an administrative business system for local governments, designed for a typical Japanese city.",
+    "homepage": "https://github.com/hyungus06/Local-Gov-System#readme",
+    "bugs": {
+        "url": "https://github.com/hyungus06/Local-Gov-System/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hyungus06/Local-Gov-System.git"
+    },
+    "license": "None",
+    "author": "Kim Donghyun (hyungus06)",
+    "type": "commonjs",
+    "main": "src/backend/index.js"
+}
